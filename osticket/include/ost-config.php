@@ -41,8 +41,8 @@ define('ADMIN_EMAIL','omar.adil@halasat.com');
 define('DBTYPE','mysql');
 define('DBHOST','localhost');
 define('DBNAME','osticket');
-define('DBUSER','osticket-owner');
-define('DBPASS','Halasat767??');
+define('DBUSER','root');
+define('DBPASS','Halasat??767');
 
 # Table prefix
 define('TABLE_PREFIX','ost_');
